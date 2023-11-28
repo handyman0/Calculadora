@@ -18,7 +18,7 @@ Este é um projeto de uma calculadora simples criada em C usando a biblioteca GT
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-gtk-c.git](https://github.com/handyman0/Calculadora.git)
+   git clone https://github.com/handyman0/Calculadora.git
    ```
 
 2. Navegue até o diretório do projeto:
